@@ -7,8 +7,7 @@
   </p>
 
   <p align="center">✨ Junior Developer ✨</p>
-
-  <img src="[https://github-profile-trophy.vercel.app/?username=samuelguilloton](https://github-profile-trophy.vercel.app/?username=samuelguilloton&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=30)" alt="samuelGuilloton" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samuelguilloton&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=30" alt="samuelGuilloton" />
 </div>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div><br>
