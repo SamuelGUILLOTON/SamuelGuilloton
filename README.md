@@ -3,7 +3,7 @@
   <p align="center">✨ Full Stack (Creative) (Junior) Developer ✨</p>
 </div>
 <div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/samuel-guilloton/)
+  [LinkedIn](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/samuel-guilloton/)
   [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:samuel.guilloton01@gmail.com)
 </div>
   
