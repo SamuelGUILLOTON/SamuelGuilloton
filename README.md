@@ -2,7 +2,11 @@
   <p align="center">✨ Full Stack (Creative) Developer ✨</p>
 </div>
 
-# 🧳 Projects
+## 📬 Find me at
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/samuelguilloton/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:samuel.guilloton01@gmail.com)
+
+## 📁 Few projects
 
 <a href="https://github.com/JulesLadeiro/CryptiPics">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=CryptiPics&theme=dark&bg_color=121212&hide_border=true" /></a>
@@ -13,11 +17,11 @@
 <a href="https://github.com/JulesLadeiro/TwitterPlusFront">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=TwitterPlusFront&theme=dark&bg_color=121212&hide_border=true" /></a><br>
 
-# 🧠 Technos
+## 🤖 Technos
 
 ### What I always play with
 <p> 
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
+  <img src="https://www.freepnglogos.com/pics/php-logo" alt="html-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
