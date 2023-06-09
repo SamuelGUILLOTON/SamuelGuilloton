@@ -1,25 +1,22 @@
 <h2 align="center">🙋Holla ! I'm Samuel</h2>
 <div align="center">
-  <p align="center">✨ Full Stack (Creative) Developer ✨</p>
+  <p align="center">✨ Full Stack (Creative) (Junior) Developer ✨</p>
 </div>
 <div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
-  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
-  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/samuel-guilloton/)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:samuel.guilloton01@gmail.com)
 </div>
   
 ## 📁 Few projects
 
-<a href="https://github.com/JulesLadeiro/CryptiPics">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=CryptiPics&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/JulesLadeiro/companyplus-py">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=companyplus-py&theme=dark&bg_color=121212&hide_border=true" /></a><br>
-<a href="https://github.com/JulesLadeiro/TwitterPlus">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=TwitterPlus&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/JulesLadeiro/TwitterPlusFront">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=TwitterPlusFront&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+<a href="https://github.com/SamuelGUILLOTON/python-backend/">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SamuelGUILLOTON&repo=python-backend&theme=dark&bg_color=121212&hide_border=true"/></a>
+<a href="https://github.com/SamuelGUILLOTON/pizza_marcia">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SamuelGuilloton&repo=pizza_marcia&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+<a href="https://github.com/SamuelGUILLOTON/Project-Series-Atlas">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SamuelGuilloton&repo=Project-Series-Atlas&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/SamuelGUILLOTON/localboyz-collection">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SamuelGuilloton&repo=localboyz-collection&theme=dark&bg_color=121212&hide_border=true" /></a><br>
 
 ## 🤖 Technos
 
@@ -61,7 +58,7 @@
 
 <br>
 
-# 🧮 Stats
+## 🧮 Stats
 
 <img src="https://github-profile-trophy.vercel.app/?username=samuelguilloton&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=30" alt="samuelGuilloton" />
 
