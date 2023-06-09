@@ -2,6 +2,7 @@
   <p align="center">✨ Full Stack (Creative) Developer ✨</p>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/samuelguilloton/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:samuel.guilloton01@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
 </div>
 
 ## 📁 Few projects
