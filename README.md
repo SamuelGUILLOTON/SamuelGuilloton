@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SamuelGuilloton&repo=Project-Series-Atlas&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/SamuelGUILLOTON/localboyz-collection">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SamuelGuilloton&repo=localboyz-collection&theme=dark&bg_color=121212&hide_border=true" /></a><br>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SamuelGuilloton&repo=localboyz-collection&theme=dark&bg_color=121212&hide_border=true" />
 ## 🤖 Technos
 
 ### What I always play with
