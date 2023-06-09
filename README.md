@@ -1,9 +1,13 @@
 <h2 align="center">🙋Holla ! I'm Samuel</h2>
+<div align="center">
   <p align="center">✨ Full Stack (Creative) Developer ✨</p>
-
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
+  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
+  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
 </div>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/samuelguilloton/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:samuel.guilloton01@gmail.com)
+
+  
 ## 📁 Few projects
 
 <a href="https://github.com/JulesLadeiro/CryptiPics">
