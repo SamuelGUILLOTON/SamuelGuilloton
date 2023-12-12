@@ -3,7 +3,7 @@
   <p align="center">✨ Full Stack (Creative) (Junior) Developer ✨</p>
 </div>
 <div align="center">
-<h1 style="color: white"> Samuel Guilloton Lille </h1>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-guilloton/)](https://www.linkedin.com/in/samuel-guilloton/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/atticus_in_a_bluefunk/)](https://www.instagram.com/atticus_in_a_bluefunk/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel.guilloton01@gmail.com)](mailto:samuel.guilloton01@gmail.com)
