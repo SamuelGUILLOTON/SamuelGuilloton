@@ -1,20 +1,5 @@
-
-
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap" rel="stylesheet">
-      <style>
-        .font {
-          font-family: 'Instrument Serif', serif;
-          color: white;
-        }
-      </style>
-
-      <h2 align="center">🙋Holla ! I'm Samuel</h2>
-<div align="center font">
+<h2 align="center">🙋Holla ! I'm Samuel</h2>
+<div align="center">
   <p align="center">✨ Full Stack (Creative) (Junior) Developer ✨</p>
 </div>
 <div align="center">
@@ -67,9 +52,5 @@
 
 ## 🧮 Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=samuelguilloton&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=30" alt="samuelGuilloton" />re, my name is Nikola 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<img src="https://github-profile-trophy.vercel.app/?username=samuelguilloton&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=30" alt="samuelGuilloton" />
 
