@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap" rel="stylesheet"> 
+
 <h2 align="center">🙋Holla ! I'm Samuel</h2>
 <div align="center">
   <p align="center">✨ Full Stack (Creative) (Junior) Developer ✨</p>
@@ -54,4 +58,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=samuelguilloton&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=30" alt="samuelGuilloton" />
 
-
+<style>
+body {
+font-family: 'Instrument Serif', serif;
+}
+</style>
