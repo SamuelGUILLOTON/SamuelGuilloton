@@ -1,6 +1,6 @@
-<h2 align="center">🙋Holla ! I'm Samuel</h2>
+<h2 align="center">🙋¡Hola! I'm Samuel</h2>
 <div align="center">
-  <p align="center">✨ Full Stack (Creative) (Junior) Developer ✨</p>
+  <p align="center">✨ Full Stack (Creative) Developer ✨</p>
 </div>
 <div align="center">
 
